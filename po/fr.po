@@ -20,47 +20,47 @@ msgstr ""
 
 #: dash.js:743
 msgid "Search Open Windows (Hotkey: Space)"
-msgstr "Hledat v otevřených oknech (klávesová zkratka: mezerník)"
+msgstr "Rechercher fenêtre ouverte (raccourci clavier: espace)"
 
 #: dash.js:816
 msgid "Search Recent Files (Hotkey: Ctrl + Space)"
-msgstr "Hledat v posledních souborech (klávesová zkratka: Ctrl + mezerník)"
+msgstr "Rechercher les fichiers récents (raccourci clavier: Ctrl + espace)"
 
 #: windowSearchProvider.js:117 windowSearchProvider.js:119
 msgid "Open Windows"
-msgstr "Otevřené okna"
+msgstr "Ouvrir la fenêtre"
 
 #: windowSearchProvider.js:118
 msgid "List of open windows"
-msgstr "Seznam otevřených oken"
+msgstr "Listes des fenêtres ouvertes"
 
 #: appDisplay.js:1317
 msgid "Force Quit"
-msgstr "Vynutit vypnutí"
+msgstr "Forcer à quitter"
 
 #: appDisplay.js:1335
 msgid "Move App to Current Workspace ( Shift + Click )"
-msgstr "Přesunout aplikaci do aktuální pracovní plochy (Shift + kliknutí)"
+msgstr "Déplacer l'application sur l'actuel espace de travail (Majuscule + Click)"
 
 #: prefs.js:47 prefs.js:1465
 msgid "Layout"
-msgstr "Rozložení"
+msgstr "Agencement"
 
 #: prefs.js:53
 msgid "Appearance"
-msgstr "Vzhled"
+msgstr "Apparence"
 
 #: prefs.js:59
 msgid "Behavior"
-msgstr "Vlastnosti"
+msgstr "Comportement"
 
 #: prefs.js:65
 msgid "Misc"
-msgstr "Různé"
+msgstr "Divers"
 
 #: prefs.js:71
 msgid "About"
-msgstr "O aplikaci"
+msgstr "A propos"
 
 #: prefs.js:119 prefs.js:517 prefs.js:1030 prefs.js:1456
 msgid "Dash"
@@ -68,31 +68,31 @@ msgstr "Dash"
 
 #: prefs.js:125
 msgid "Dash Position"
-msgstr "Pozice Dash"
+msgstr "Position du Dash"
 
 #: prefs.js:131
 msgid "Top"
-msgstr "Nahoře"
+msgstr "Haut"
 
 #: prefs.js:132
 msgid "Right"
-msgstr "Vpravo"
+msgstr "Droite"
 
 #: prefs.js:133 prefs.js:355
 msgid "Bottom"
-msgstr "Dole"
+msgstr "Bas"
 
 #: prefs.js:134
 msgid "Left"
-msgstr "Vlevo"
+msgstr "Gauche"
 
 #: prefs.js:135 prefs.js:393 prefs.js:557 prefs.js:572 prefs.js:587
 msgid "Hide"
-msgstr "Skrýt"
+msgstr "Cacher"
 
 #: prefs.js:142
 msgid "Center Horizontal Dash to Workspace"
-msgstr "Vycentrovat horizontální Dash"
+msgstr "Centrer le Dash sur l'espace de travail"
 
 #: prefs.js:143
 msgid ""
@@ -100,27 +100,29 @@ msgid ""
 "recalculated relative to the workspace preview instead of the screen. Works "
 "only with the default Dash."
 msgstr ""
-"Pokud je pozice nastavena na Nahoře nebo Dole, pozice se přepočítá vzhledem "
-"k náhledu pracovního prostoru místo obrazovky. Funguje pouze se standardním "
-"Dash."
+"Si le Dash est réglé sur Haut ou Bas, la position sera recalculée "
+"par rapport à l'aperçu de l'espace de travail au lieu de l'écran. Fonctionne "
+"uniquement avec le Dash par défaut."
 
 #: prefs.js:160
 msgid "Fine Tune Dash Position"
-msgstr "Upravit pozici Dash"
+msgstr "Réglage précis de la position du Dash"
 
 #: prefs.js:161
 msgid ""
 "Adjusts position of the dock on chosen axis. Works only with the default "
 "Dash."
-msgstr "Upraví polohu doku na zvolené ose. Funguje pouze se standardním Dash."
+msgstr ""
+"Ajuste la position du dock sur l'axe choisis. Fonctionne uniquement "
+"avec le Dash par défault."
 
 #: prefs.js:170
 msgid "Workspace Thumbnails / Orientation"
-msgstr "Náhledy pracovního prostoru / Orientace"
+msgstr "Aperçus de l'espace de travail / Orientation"
 
 #: prefs.js:176
 msgid "Thumbnails Position / Workspaces Orientation"
-msgstr "Pozice náhledů / Orientace pracovních ploch"
+msgstr "Position des Aperçus / Orientation des Espaces de travail"
 
 #: prefs.js:177
 msgid ""
@@ -129,46 +131,46 @@ msgid ""
 "workspace thumbnails, one sets workspaces to the vertical orientation, the "
 "second one to horizontal."
 msgstr ""
-"Umístění miniatur pracovních ploch na obrazovce také nastavuje orientaci "
-"pracovních ploch na vertikální nebo horizontální. Máte dvě možnosti, jak "
-"zakázat miniatury pracovních ploch, jedna nastaví pracovní plochy na "
-"vertikální orientaci, druhá na horizontální."
+"La position des vignettes de l'espace de travail sur l'écran défini également "
+"la position des espaces de travail à la verticale ou à l'horizontale. Tu as deux options "
+"pour désactiver les aperçus de l'espace de travail, l'un défini les espaces de "
+"travail à l'orientation verticale, l'autre à l'horizontale."
 
 #: prefs.js:183
 msgid "Left       \t Vertical Orientation"
-msgstr "Svislá orientace             \t  vlevo"
+msgstr "Gauche       \t  Orientation Verticale"
 
 #: prefs.js:184
 msgid "Right      \t Vertical Orientation"
-msgstr "Svislá orientace             \t  vpravo"
+msgstr "Droite      \t  Orientation Verticale"
 
 #: prefs.js:185
-msgid "Hide       \t Set Vertical Orientation"
-msgstr "Svislá orientace             \t  skrýt"
+msgid "Hide      \t Set Vertical Orientation"
+msgstr "Cacher      \t  Règle l'Orientation Verticale"
 
 #: prefs.js:186
 msgid "Top        \t Horizontal Orientation"
-msgstr "Vodorovná orientace       \t  nahoře"
+msgstr "Haut       \t Orientation Horizontale"
 
 #: prefs.js:187
 msgid "Bottom     \t Horizontal Orientation"
-msgstr "Vodorovná orientace       \t  dole"
+msgstr "Bas     \t Orientation Horizontale"
 
 #: prefs.js:188
 msgid "Hide       \t Set Horizontal Orientation"
-msgstr "Vodorovná orientace       \t  skrýt"
+msgstr "Cacher       \t  Règle l'Orientation Horizontal"
 
 #: prefs.js:204 prefs.js:409
 msgid "Fine Tune Workspace Thumbnails Position"
-msgstr "Doladit pozice miniatur pracovního prostoru"
+msgstr "Affiner la position des aperçus de l'espace de travail"
 
 #: prefs.js:205
 msgid "Adjusts workspace thumbnails vertical position."
-msgstr "Upraví vertikální polohu miniatur pracovního prostoru."
+msgstr "Ajuste la position verticale des aperçus de l'espace de travail."
 
 #: prefs.js:213
 msgid "Reserve Full Screen Height/Width for Thumbnails"
-msgstr "Vyhradit výšku/šířku celé obrazovky pro miniatury"
+msgstr "Réserver la hauteur/largeur plein écran pour les aperçus"
 
 #: prefs.js:214
 msgid ""
@@ -176,28 +178,29 @@ msgid ""
 "the expense of space available for Dash (if the Dash is oriented in a "
 "different axis)."
 msgstr ""
-"Celá výška/šířka obrazovky bude vyhrazena pro miniatury pracovního prostoru "
-"na úkor místa dostupného pro Dash (pokud je Dash orientován v jiné ose)."
+"Toute la hauteur/largeur de l'écran sera réservée aux vignettes de l'espace de travail "
+"au détriment de l'espace disponible pour Dash (si le Dash est orienté dans un "
+"axe différent)."
 
 #: prefs.js:231 prefs.js:427
 msgid "Workspace Thumbnails Max Scale"
-msgstr "Miniatury pracovního prostoru Maximální měřítko"
+msgstr "Aperçus de l'espace de travail Échelle maximale"
 
 #: prefs.js:232
 msgid ""
 "Adjusts maximum size of the workspace thumbnails (% relative to display "
 "width)."
 msgstr ""
-"Upraví maximální velikost miniatur pracovního prostoru (% vzhledem k šířce "
-"zobrazení)."
+"Ajuste la taille maximale des aperçus de l'espace de travail (% par rapport "
+"à la largeur de l'affichage)."
 
 #: prefs.js:241 prefs.js:697
 msgid "Workspace Preview"
-msgstr "Náhled pracovního prostoru"
+msgstr "Aperçu de l'espace de travail"
 
 #: prefs.js:256
 msgid "Workspaces Scale"
-msgstr "Měřítko pracovních prostorů"
+msgstr "Échelle des espaces de travail"
 
 #: prefs.js:257
 msgid ""
@@ -205,32 +208,32 @@ msgid ""
 "workspaces on the screen. Default size is calculated to use all available "
 "space."
 msgstr ""
-"Zmenšuje náhledy pracovních ploch, takže se na obrazovku vejde více "
-"sousedních pracovních ploch. Výchozí velikost se vypočítá tak, aby využila "
-"veškerý dostupný prostor."
+"Réduit la taille des aperçus des espaces de travail afin que vous " 
+"puissiez placer plus d'espaces de travail adjacents sur l'écran. La taille par "
+"défaut est calculée pour utiliser tout l'espace disponible."
 
 #: prefs.js:274
 msgid "Workspaces Spacing"
-msgstr "Rozestupy pracovních prostorů"
+msgstr "Espacement des espaces de travail"
 
 #: prefs.js:275
 msgid ""
 "Adjusts spacing between workspace previews so you can control how much of "
-"the adjacent workspaces overlap to the current workspace overview. Default "
-"value should set the adjacent workspaces out of the screen."
+"the adjacent workspaces overlap to the current workspace overview. Default " 
+"value should set the adjacent workspaces out of the screen"
 msgstr ""
-"Upraví rozestupy mezi náhledy pracovního prostoru, takže můžete ovládat, jak "
-"velká část sousedních pracovních prostorů se překrývá s aktuálním přehledem "
-"pracovního prostoru. Výchozí hodnota by měla nastavit sousední pracovní "
-"plochy mimo obrazovku."
+"Ajuste l'espacement entre les aperçus de l'espace de travail afin que vous puissiez "
+"contrôler le chevauchement des espaces de travail adjacents avec l'aperçu de "
+"l'espace de travail actuel. La valeur par défaut doit placer les espaces de travail "
+"adjacents hors de l'écran."
 
 #: prefs.js:284 prefs.js:712 prefs.js:1072
 msgid "App Grid"
-msgstr "Mřížka aplikace"
+msgstr "Grille d'applications"
 
 #: prefs.js:290
 msgid "Center App Grid"
-msgstr "Vycentrovat mřížku aplikace"
+msgstr "Centrer la grille d'applications"
 
 #: prefs.js:291
 msgid ""
@@ -239,156 +242,162 @@ msgid ""
 "for narrower and small resolution displays, especially if workspace "
 "thumbnails are bigger."
 msgstr ""
-"Mřížka aplikace na stránce zobrazení aplikace bude vystředěna k displeji "
-"místo dostupného místa. Tato možnost může mít vliv na velikost mřížky, spíše "
-"pro užší displeje a displeje s malým rozlišením, zvláště pokud jsou "
-"miniatury pracovního prostoru větší."
+"La grille d'applications dans la vue de la page d'applications sera centrée "
+"sur l'écran au lieu de l'espace disponible. Cette option peut avoir un impact sur la "
+"taille de la grille, en particulier pour les écrans plus étroits et de faible résolution "
+"surtout si les aperçus de l'espace de travail sont plus grandes."
 
 #: prefs.js:300
 msgid "Search View"
-msgstr "Zobrazení vyhledávání"
+msgstr "Affichage de la Recherche"
 
 #: prefs.js:306
 msgid "Center Search View"
-msgstr "Vycentrovat zobrazení vyhledávání"
+msgstr "Centrer l'affichage de la recherche"
 
 #: prefs.js:307
 msgid ""
 "Search view will be centered to the display instead of the available space."
 msgstr ""
-"Zobrazení vyhledávání bude vystředěno na displej namísto dostupného místa."
+"L'affichage de la recherche sera centré sur l'écran au lieu de l'espace disponible."
 
 #: prefs.js:315
 msgid "Always Show Search Entry"
-msgstr "Vždy zobrazit pole vyhledávání"
+msgstr "Toujours afficher l'entrée de la recherche"
 
 #: prefs.js:316
 msgid ""
 "If disabled, the search entry field will be hidden when not in use, so the "
 "workspace preview and app grid may take up more space."
 msgstr ""
-"Pokud je tato možnost zakázána, pole pro zadání vyhledávání bude skryto, "
-"když se nepoužívá, takže náhled pracovního prostoru a mřížka aplikace mohou "
-"zabírat více místa."
+"S'il est désactivé, le champ de recherche sera masqué lorsqu'il n'est pas utilisé, " 
+"de sorte que l'aperçu de l'espace de travail et la grille d'applications peuvent " 
+"occuper plus d'espace."
 
 #: prefs.js:333
 msgid "Search Results Width"
-msgstr "Šířka výsledků hledání"
+msgstr "Largeur de Résultats de la recherche"
 
 #: prefs.js:334
 msgid ""
 "Adjusts maximum width of search results view (% relative to default). This "
 "allows you to fit more (or less) app icons into the app search result."
 msgstr ""
-"Upraví maximální šířku zobrazení výsledků vyhledávání (% vzhledem k "
-"výchozímu nastavení). To vám umožní umístit více (nebo méně) ikon aplikací "
-"do výsledku vyhledávání aplikací."
+"Ajuste la largeur maximale de l'affichage des résultats de recherche (% par rapport " 
+"à la valeur par défaut). Cela vous permet d'insérer plus (ou moins) d'icônes "
+"d'applications dans les résultats de la recherche d'applications."
 
 #: prefs.js:342 prefs.js:1483
 msgid "Panel"
-msgstr "Panel"
+msgstr "Panneau"
 
 #: prefs.js:348
 msgid "Main Panel Position"
-msgstr "Umístění hlavního panelu"
+msgstr "Position du panneau principal"
 
 #: prefs.js:349
 msgid "Allows you to place the main panel at the bottom of your monitor."
-msgstr "Umožňuje umístit hlavní panel na spodní část monitoru."
+msgstr "Permet de placer le Panneau Principal au bas de l'écran."
 
 #: prefs.js:354
 msgid "Top (Default)"
-msgstr "Nahoře (výchozí)"
+msgstr "Haut (Défaut)"
 
 #: prefs.js:362
 msgid "Main Panel Visibility"
-msgstr "Viditelnost hlavního panelu"
+msgstr "Visibilité du panneau principal"
 
 #: prefs.js:363
 msgid "Main panel can be visible always, only in the overview or never."
-msgstr "Hlavní panel může být viditelný vždy, pouze v přehledu nebo nikdy."
+msgstr ""
+"Le panneau principal est soit : toujours visible, seulement "
+"dans la vue d'ensemble ou jamais."
 
 #: prefs.js:368
 msgid "Always Visible (Default)"
-msgstr "Vždy viditelný (výchozí)"
+msgstr "Toujours visible (Défaut)"
 
 #: prefs.js:369
 msgid "Overview Only"
-msgstr "Pouze přehled"
+msgstr "Vue d'ensemble seulement"
 
 #: prefs.js:370
 msgid "Always Hidden"
-msgstr "Vždy skrytý"
+msgstr "Toujours caché"
 
 #: prefs.js:378
 msgid "Secondary Monitors"
-msgstr "Sekundární monitory"
+msgstr "Moniteur secondaire"
 
 #: prefs.js:384
 msgid "Workspace Thumbnails Position"
-msgstr "Pozice miniatur pracovního prostoru"
+msgstr "Position des aperçus de l'espace de travail "
 
 #: prefs.js:385
 msgid ""
-"Allows you to place workspace thumbnails of secondary monitors on the "
-"opposite side than on the primary monitor."
+"Allows you to place workspace thumbnails of secondary monitors "
+"on the opposite side than on the primary monitor."
 msgstr ""
-"Umožňuje umístit miniatury pracovního prostoru sekundárních monitorů na "
-"opačnou stranu než na primárním monitoru."
+"Permet de placer les vignettes de l'espace de travail des moniteurs "
+"secondaires du côté opposé à celui du moniteur principal."
 
 #: prefs.js:390
 msgid "Same as Primary"
-msgstr "Stejné jako primární"
+msgstr "Identique au Primaire"
 
 #: prefs.js:391
 msgid "Left / Top"
-msgstr "Vlevo / Nahoře"
+msgstr "Gauche / Haut"
 
 #: prefs.js:392
 msgid "Right / Bottom"
-msgstr "Vpravo / Dole"
+msgstr "Droite / Bas"
 
 #: prefs.js:410
 msgid "Adjusts secondary monitors workspace thumbnails vertical position."
 msgstr ""
-"Upravuje vertikální polohu miniatur pracovního prostoru sekundárních "
-"monitorů."
+"Ajuste la position verticale des aperçus de l'espace de travail des "
+"moniteurs secondaires."
 
 #: prefs.js:428
 msgid ""
 "Adjusts maximum size of the workspace thumbnails (% relative to display "
 "width) for secondary monitors."
 msgstr ""
-"Upravuje maximální velikost miniatur pracovního prostoru (% vzhledem k šířce "
-"zobrazení) pro sekundární monitory."
+"Ajuste la taille maximale des aperçus de l'espace de travail (% par rapport " 
+"à la largeur d'affichage) pour les moniteurs secondaires."
 
 #: prefs.js:445
 msgid "Workspace Preview Scale"
-msgstr "Měřítko náhledu pracovního prostoru"
+msgstr "Échelle de l'aperçu de l'espace de travail"
 
 #: prefs.js:446
 msgid "Scales down workspace previews on secondary monitors."
-msgstr "Zmenšuje náhledy pracovního prostoru na sekundárních monitorech."
+msgstr ""
+"Réduction de l'échelle des aperçus de l'espace de travail sur "
+"les moniteurs secondaires."
 
 #: prefs.js:454
 msgid "Shift Workspace Preview by Panel Height"
-msgstr "Posunout náhled pracovního prostoru podle výšky panelu"
+msgstr ""
+"Décaler la prévisualisation de l'espace de travail "
+"en fonction de la hauteur du panneau."
 
 #: prefs.js:455
 msgid ""
 "This option can help align overview of the secondary monitor with the "
 "primary monitor."
 msgstr ""
-"Tato možnost může pomoci zarovnat přehled sekundárního monitoru s primárním "
-"monitorem."
+"Cette option permet d'aligner la vue d'ensemble du moniteur secondaire "
+"sur celle du moniteur principal."
 
 #: prefs.js:464
 msgid "Workspace Switcher Popup"
-msgstr "Přepínač pracovního prostoru - vyskakovací okno"
+msgstr "Fenêtre contextuelle de changement d'espace de travail"
 
 #: prefs.js:480
 msgid "Horizontal Position (% from left)"
-msgstr "Horizontální poloha (% zleva)"
+msgstr "Position horizontale (% par rapport à la gauche)"
 
 #: prefs.js:481
 msgid ""
@@ -397,22 +406,24 @@ msgid ""
 "you want more control over the popup, try Workspace Switcher Manager "
 "extension."
 msgstr ""
-"Toto vyskakovací okno se zobrazí, když přepnete pracovní prostor pomocí "
-"klávesové zkratky nebo gesta mimo přehled. Můžete jej zakázat na kartě "
-"Vlastnosti. Pokud chcete větší kontrolu nad vyskakovacím oknem, vyzkoušejte "
-"rozšíření Workspace Switcher Manager."
+"Cette fenêtre s'affiche lorsque vous changez d'espace de travail à l'aide d'un " 
+"raccourci clavier ou d'un geste en dehors de la vue d'ensemble. Vous pouvez la "
+"désactiver dans l'onglet Comportement. Si vous souhaitez mieux contrôler la "
+"fenêtre contextuelle, essayez l'extension Workspace Switcher Manager."
 
 #: prefs.js:499
 msgid "Vertical Position (% from top)"
-msgstr "Vertikální pozice (% shora)"
+msgstr "Position verticale (% du haut)"
 
 #: prefs.js:523
 msgid "Dash Max Icon Size"
-msgstr "Maximální velikost ikon"
+msgstr "Taille maximale des icônes du Dash"
 
 #: prefs.js:524
 msgid "Maximum size of Dash icons in pixels. Works only with default Dash."
-msgstr "Maximální velikost ikon v pixelech. Funguje pouze s výchozím Dash."
+msgstr ""
+"Taille maximale des icônes du Dash en pixels. Fonctionne uniquement "
+"avec le Dash par défault."
 
 #: prefs.js:529 prefs.js:732 prefs.js:752 prefs.js:853
 msgid "128"
@@ -452,23 +463,23 @@ msgstr "16"
 
 #: prefs.js:551
 msgid "Show Apps Icon Position"
-msgstr "Zobrazit pozici ikony aplikací"
+msgstr "Position de l'icône Montrer les applications "
 
 #: prefs.js:552
 msgid "Sets the position of the \"Show Applications\" icon in the Dash."
-msgstr "Nastavuje pozici ikony \"Zobrazit aplikace\"."
+msgstr "Règle la position de l'icône \"Montrer les applications\" dans le Dash."
 
 #: prefs.js:558 prefs.js:573 prefs.js:588
 msgid "Start"
-msgstr "Začátek"
+msgstr "Début"
 
 #: prefs.js:559 prefs.js:574 prefs.js:589
 msgid "End"
-msgstr "Konec"
+msgstr "Fin"
 
 #: prefs.js:566
 msgid "Open Windows Icon Position"
-msgstr "Pozice ikony „Hledat v otevřených oknech“"
+msgstr "Position de l'icône Ouvrir la fenêtre"
 
 #: prefs.js:567
 msgid ""
@@ -478,11 +489,12 @@ msgid ""
 "secondary mouse button click on the Show Apps Icon, or the Space hotkey to "
 "access this feature."
 msgstr ""
-"Tato možnost přidá ikonu „Hledat v otevřených oknech“ (pokud je na kartě "
-"Vlastnosti povolen poskytovatel vyhledávání v okně), takže můžete přímo "
-"přepínat výsledky poskytovatele vyhledávání v okně. I když tuto ikonu "
-"zakážete, můžete pro přístup k této funkci použít sekundární tlačítko myši "
-"na ikonu Zobrazit aplikaci nebo mezerník."
+"Cette option ajoute l'icône "Rechercher les fenêtres ouvertes" dans le tableau de bord "
+"(si le fournisseur de recherche par fenêtre est activé dans l'onglet Comportement) "
+"afin que vous puissiez directement basculer les résultats du fournisseur de recherche "
+"par fenêtre. Même si vous désactivez cette icône, vous pouvez utiliser le bouton "
+"secondaire de la souris pour cliquer sur l'icône Afficher les applications ou le raccourci "
+"clavier Espace pour accéder à cette fonctionnalité."
 
 #: prefs.js:581
 msgid "Recent Files Icon Position"
