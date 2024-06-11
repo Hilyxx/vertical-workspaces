@@ -546,14 +546,14 @@ msgid ""
 "Each workspace thumbnail can show its index and name (if defined in the "
 "system settings) or name/title of its most recently used app/window."
 msgstr ""
-"Každá miniatura pracovního prostoru může zobrazovat svůj index a název "
-"(pokud je definován v nastavení systému) nebo jméno/název naposledy použité "
-"aplikace/okna."
+"Chaque miniatures de l'espace de travail peut afficher son index et "
+"son nom (si defini dans les paramètres système) ou le nom/titre de " 
+"l'application/fenêtre la plus récemment utilisée."
 
 #: prefs.js:635 prefs.js:680 prefs.js:1001 prefs.js:1062 prefs.js:1260
 #: prefs.js:1278 prefs.js:1296 prefs.js:1331
 msgid "Disable"
-msgstr "Zakázat"
+msgstr "Désactiver"
 
 #: prefs.js:636
 msgid "Index"
@@ -561,44 +561,50 @@ msgstr "Index"
 
 #: prefs.js:637
 msgid "Index + WS Name"
-msgstr "Index + Název WS"
+msgstr "Index + WS nom"
 
 #: prefs.js:638
 msgid "Index + App Name"
-msgstr "Index + Název aplikace"
+msgstr "Index + Nom de l'application"
 
 #: prefs.js:639
 msgid "Index + Window Title"
-msgstr "Rejstřík + Název okna"
+msgstr "Index + Titre de la fenêtre"
 
 #: prefs.js:646
 msgid "Show WS Thumbnail Label on Hover"
-msgstr "Zobrazit štítek miniatur WS při umístění kurzoru myši"
+msgstr "Afficher l'étiquette de la miniature WS au survol"
 
 #: prefs.js:647
 msgid "Show label only when the mouse pointer hovers over a thumbnail"
-msgstr "Zobrazit popisek pouze tehdy, když ukazatel myši najede na miniaturu"
+msgstr ""
+"Afficher la miniature uniquement lorsque le pointeur de la "
+"souris survole une vignette"
 
 #: prefs.js:655
 msgid "Show Wallpaper in Workspace Thumbnails"
-msgstr "Zobrazit tapetu v miniaturách pracovního prostoru"
+msgstr ""
+"Afficher le fond d'écran dans les miniatures "
+"de l'espace de travail"
 
 #: prefs.js:656
 msgid "All workspace thumbnails will include the current desktop background."
 msgstr ""
-"Všechny miniatury pracovního prostoru budou obsahovat aktuální pozadí plochy."
+"Toutes les miniatures de l'espace de travail incluront l'arrière-plan actuel du bureau."
 
 #: prefs.js:664
 msgid "Window Preview"
-msgstr "Náhled okna"
+msgstr "Aperçu de la fenêtre"
 
 #: prefs.js:670
 msgid "Window Preview App Icon Size"
-msgstr "Velikost ikony aplikace náhledu okna"
+msgstr ""
+"Taille de l'icône de l'application "
+"d'aperçu de la fenêtre"
 
 #: prefs.js:671
 msgid "Default size is 64."
-msgstr "Výchozí velikost je 64."
+msgstr "La taille par défault est 64."
 
 #: prefs.js:679
 msgid "22"
@@ -606,37 +612,39 @@ msgstr "22"
 
 #: prefs.js:687
 msgid "Always Show Window Titles"
-msgstr "Vždy zobrazovat názvy oken"
+msgstr "Toujours afficher les titres des fenêtres"
 
 #: prefs.js:688
 msgid ""
 "All windows on the workspace preview will show their titles, not only the "
 "one with the mouse pointer."
 msgstr ""
-"Všechna okna v náhledu pracovní plochy budou zobrazovat své názvy, nejen ty "
-"s ukazatelem myši."
+"Toutes les fenêtres de l'aperçu de l'espace de travail afficheront leurs "
+"titres, pas seulement une seule avec le pointeur de la souris."
 
 #: prefs.js:703
 msgid "Show Workspace Preview Background"
-msgstr "Zobrazit pozadí náhledu pracovní plochy"
+msgstr "Afficher l'arrière-plan de l'aperçu de l'espace de travail"
 
 #: prefs.js:704
 msgid "Allows you to hide the scaling background of the workspace preview."
-msgstr "Umožňuje skrýt pozadí náhledu pracovní plochy."
+msgstr ""
+"Vous permet de masquer l’arrière-plan de mise à l’échelle de l’aperçu "
+"de l’espace de travail."
 
 #: prefs.js:718
 msgid "Icon Size"
-msgstr "Velikost ikony"
+msgstr "Taille de l'icône"
 
 #: prefs.js:719
 msgid ""
 "Allows to force fixed icon size and bypass the default adaptive algorithm."
 msgstr ""
-"Umožňuje vynutit pevnou velikost ikony a obejít výchozí adaptivní algoritmus."
+"Permet de forcer la taille d'icône fixe et de contourner l'algorithme adaptatif par défaut."
 
 #: prefs.js:724 prefs.js:751
 msgid "Adaptive (Default)"
-msgstr "Adaptivní (výchozí)"
+msgstr "Adaptatif (par défaut)"
 
 #: prefs.js:725
 msgid "256"
@@ -668,19 +676,21 @@ msgstr "144"
 
 #: prefs.js:745
 msgid "Folder Icon Size"
-msgstr "Velikost ikony složky"
+msgstr "Taille de l'icône du dossier"
 
 #: prefs.js:746
 msgid ""
 "Allows to disable the default adaptive algorithm and set a fixed size of "
 "icons inside folders."
 msgstr ""
-"Umožňuje zakázat výchozí adaptivní algoritmus a nastavit pevnou velikost "
-"ikon uvnitř složek."
+"Permet de désactiver l'algorithme adaptatif par défaut et de définir une taille "
+"fixe aux icônes à l'intérieur des dossiers."
 
 #: prefs.js:766
 msgid "Max App Folder Icon Grid Size"
-msgstr "Maximální velikost mřížky ikony složky aplikace"
+msgstr ""
+"Taille maximale de la grille des icônes "
+"du dossier d'application"
 
 #: prefs.js:767
 msgid ""
@@ -688,143 +698,149 @@ msgid ""
 "content, this option allows you to increase the number to 9 icons if folder "
 "contains more than 4 or 8 apps. The latter avoids half empty folder icons."
 msgstr ""
-"Každá ikona složky zobrazuje (až) 4 ikony aplikací jako náhled obsahu "
-"složky. Tato možnost umožňuje zvýšit počet na 9 ikon, pokud složka obsahuje "
-"více než 4 nebo 8 aplikací."
+"Chaque icône du dossier affiche (jusqu'à) 4 icônes d'application comme aperçu "
+"du contenu du dossier, cette option permet d'augmenter le nombre à 9 icônes si "
+"le dossier contient plus de 4 ou 8 applications. Cette dernière évite les icônes "
+"de dossiers à moitié vides."
 
 #: prefs.js:772
 msgid "2x2 (Default)"
-msgstr "2x2 (výchozí)"
+msgstr "2x2 (Par défault)"
 
 #: prefs.js:773
 msgid "3x3 for 5+ apps"
-msgstr "3x3 pro 5+ aplikací"
+msgstr "3x3 pour 5+ applications"
 
 #: prefs.js:774
 msgid "3x3 for 9+ apps"
-msgstr "3x3 pro 9+ aplikací"
+msgstr "3x3 pour 9+ applications"
 
 #: prefs.js:788
 msgid "Columns per Page (0 for adaptive grid)"
-msgstr "Počet sloupců na stránku (0 pro adaptivní mřížku)"
+msgstr "Colonnes par page (0 pour la grille adaptative)"
 
 #: prefs.js:789
 msgid ""
 "Number of columns in application grid. If set to 0 (default setting) the "
 "number will be set automatically to fit available height."
 msgstr ""
-"Počet sloupců v mřížce aplikace. Pokud je nastaveno na 0 (výchozí "
-"nastavení), číslo se nastaví automaticky tak, aby odpovídalo dostupné výšce."
+"Nombre de colonnes dans la grille d'application. S'il est défini sur 0 (réglage par défaut), "
+"le nombre sera défini automatiquement pour s'adapter à la hauteur disponible."
 
 #: prefs.js:803
 msgid "Rows per Page (0 for adaptive grid)"
-msgstr "Počet řádků na stránku (0 pro adaptivní mřížku)"
+msgstr "Lignes par page (0 pour la grille adaptative)"
 
 #: prefs.js:804
 msgid ""
 "Number of rows in application grid. If set to 0 (default setting) the number "
 "will be set automatically to fit available height."
 msgstr ""
-"Počet řádků v mřížce aplikace. Pokud je nastaveno na 0 (výchozí nastavení), "
-"číslo se nastaví automaticky tak, aby odpovídalo dostupné výšce."
+"Nombre de lignes dans la grille d'application. S'il est défini sur 0 (réglage par défaut), "
+"le nombre sera réglé automatiquement pour s'adapter à la hauteur disponible."
 
 #: prefs.js:818
 msgid "Folder Columns per Page (0 for adaptive grid)"
-msgstr "Počet sloupců složek na stránku (0 pro adaptivní mřížku)"
+msgstr "Colonnes de dossier par page (0 pour la grille adaptative)"
 
 #: prefs.js:819
 msgid ""
 "Number of columns in folder grid. If you leave the value on 0, the number of "
 "columns will be calculated to fit all folder icons."
 msgstr ""
-"Počet sloupců v mřížce složek. Pokud ponecháte hodnotu na 0, počet sloupců "
-"se vypočítá tak, aby se vešly všechny ikony složek."
+"Nombre de colonnes dans la grille de dossiers.  Si vous laissez la valeur sur 0, "
+"le nombre des colonnes seront calculées pour s'adapter à toutes les icônes du dossier."
 
 #: prefs.js:833
 msgid "Folder Rows per Page (0 for adaptive grid)"
-msgstr "Počet řádků složek na stránku (0 pro adaptivní mřížku)"
+msgstr "Lignes de dossier par page (0 pour la grille adaptative)"
 
 #: prefs.js:834
 msgid ""
 "Number of rows in folder grid. If you leave the value on 0, the number of "
 "rows will be calculated to fit all folder icons."
 msgstr ""
-"Počet řádků v mřížce složek. Pokud ponecháte hodnotu na 0, počet řádků se "
-"vypočítá tak, aby se vešly všechny ikony složek."
+"Nombre de lignes dans la grille de dossiers. Si vous laissez la valeur sur 0, "
+"le nombre des lignes seront calculées pour s'adapter à toutes les icônes de dossier."
 
 #: prefs.js:841 prefs.js:1174 prefs.js:1492
 msgid "Search"
-msgstr "Vyhledávání"
+msgstr "Recherche"
 
 #: prefs.js:847
 msgid "App Search Icon Size"
-msgstr "Velikost ikony vyhledávání aplikací"
+msgstr "Taille de l'icône de recherche d'application"
 
 #: prefs.js:848
 msgid "Size of results provided by the App Search Provider."
-msgstr "Velikost ikon aplikací ve výsledcích hledání."
+msgstr "Taille des résultats fournis par le fournisseur de recherche d'applications."
 
 #: prefs.js:878
 msgid "Max Search Results Rows"
-msgstr "Maximální počet řádků výsledků hledání"
+msgstr "Nombre maximum de lignes des résultats de recherche"
 
 #: prefs.js:879
 msgid ""
 "Sets the maximum number of rows for result lists of all search providers "
 "except window search provider which always lists all results."
-msgstr "Nastaví maximální počet řádků pro seznamy výsledků všech vyhledávání."
+msgstr ""
+"Définit le nombre maximum de lignes pour les listes de résultats "
+"de tous les moteurs de recherche sauf le moteur de recherche par fenêtre "
+"qui répertorie toujours tous les résultats."
 
 #: prefs.js:888
 msgid "Overview Background"
-msgstr "Přehled - pozadí"
+msgstr "Arrière-plan du mode aperçu"
 
 #: prefs.js:894
 msgid "Show Static Background"
-msgstr "Zobrazit statické pozadí"
+msgstr "Afficher l'arrière-plan statique"
 
 #: prefs.js:895
 msgid "Show static background wallpaper instead of the solid grey color."
-msgstr "Zobrazit statickou tapetu na pozadí místo šedé barvy."
+msgstr "Afficher le fond d'écran statique au lieu de la couleur grise unie."
 
 #: prefs.js:911
 msgid "Blur Window Picker Background"
-msgstr "Rozostření pozadí"
+msgstr "Flou de l'arrière-plan du sélecteur de fenêtre"
 
 #: prefs.js:912
 msgid "Blur background wallpaper (if enabled) in the window picker view."
-msgstr "Rozostření tapety na pozadí (pokud je povoleno)."
+msgstr "Flou du fond d'écran (si activé) dans la vue du sélecteur de fenêtre."
 
 #: prefs.js:928
 msgid "Blur App Grid/Search View Background"
-msgstr "Rozostření pozadí v mřížce aplikací/hledání"
+msgstr ""
+"Flou de la grille de l'application/de l'arrière-plan "
+"dans la vue de recherche"
 
 #: prefs.js:929
 msgid ""
 "Blur background wallpaper (if enabled) in the app grid and search results "
 "views."
 msgstr ""
-"Rozostření tapety na pozadí (je-li povoleno) v mřížce aplikace a zobrazení "
-"výsledků vyhledávání."
+"Flou du fond d'écran (si activé) dans les vues de la grille de l'application
+"et des résultats de recherche."
 
 #: prefs.js:937
 msgid "Smooth Blur Transitions"
-msgstr "Plynulé přechody rozostření"
+msgstr "Transitions de flou fluides"
 
 #: prefs.js:938
 msgid ""
 "Makes blur transitions smoother but can impact overall smoothness of "
 "overview animations."
 msgstr ""
-"Umožňuje hladší přechody rozostření, ale může ovlivnit celkovou plynulost "
-"animací v přehledu."
+"Rend les transitions de flou plus fluides mais peut avoir un impact sur "
+"la fluidité globale des animations du mode aperçu."
 
 #: prefs.js:953 prefs.js:980 prefs.js:1002
 msgid "Overview"
-msgstr "Přehled"
+msgstr "Aperçu"
 
 #: prefs.js:959
 msgid "Overview Mode"
-msgstr "Režim přehledu"
+msgstr "Mode Aperçu"
 
 #: prefs.js:960
 msgid ""
@@ -835,12 +851,12 @@ msgid ""
 "workspace thumbnail scales the ws preview and exposes its windows like in "
 "the default overview mode."
 msgstr ""
-"Režim Zobrazit okna při najetí myší neodkryje okna náhledu pracovního "
-"prostoru, dokud ukazatel myši nenajede do jakéhokoli okna.\n"
-"Režim Statická pracovní plocha nemění měřítko náhledu pracovní plochy, "
-"zobrazuje pouze Dash a miniatury pracovní plochy. Kliknutím na miniaturu "
-"pracovního prostoru se změní měřítko náhledu ws a zobrazí se jeho okna jako "
-"ve výchozím režimu přehledu."
+"Le mode Exposer les fenêtres au survol n'expose pas les fenêtres d'aperçu 
+"de l'espace de travail jusqu'à ce que le pointeur de la souris entre dans 
+"n'importe quelle fenêtre. Le mode Espace de travail statique ne met pas à l'échelle
+"l'aperçu de l'espace de travail. Il affiche uniquement les miniatures du tableau de bord 
+"et de l'espace de travail sur le bureau. En cliquant sur la vignette d'un espace de travail, 
+"l'aperçu de l'espace de travail s'agrandit et ses fenêtres s'ouvrent, comme dans le mode d'aperçu par défaut.."
 
 #: prefs.js:965 prefs.js:1259 prefs.js:1277 prefs.js:1317
 msgid "Default"
